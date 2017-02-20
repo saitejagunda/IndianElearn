@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item android:id="@+id/slider_menu_signin"
+            android:title="SignIn"/>
+        <item android:id="@+id/slider_menu_register"
+            android:title="Register"/>
+        <item android:id="@+id/slider_menu_aboutus"
+            android:title="About US"/>
+        <item android:id="@+id/slider_menu_contactus"
+            android:title="Contact US"/>
+        <item android:id="@+id/slider_menu_share"
+            android:title="Share"/>
+
+    </group>
+
+
+</menu>

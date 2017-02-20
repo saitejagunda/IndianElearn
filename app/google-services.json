@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "370537642233",
+    "firebase_url": "https://indiaelearn-df4a6.firebaseio.com",
+    "project_id": "indiaelearn-df4a6",
+    "storage_bucket": "indiaelearn-df4a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370537642233:android:2771522cb5093bc7",
+        "android_client_info": {
+          "package_name": "com.indianelearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370537642233-mpa7jukskvc19e4pdtcgo0cvr3nhbcbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF8gWZY0mCxRP8o1-NLuMhCYR3i5TzeTw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
